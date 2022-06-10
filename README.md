@@ -1,2 +1,2 @@
-# Go-web-hello-world
+# Start of my Go for Web initiation
  
